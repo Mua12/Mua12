@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/muammer-yalcin/" target="blank">
+  <a href="https://www.linkedin.com/in/muammer-yalcin/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/muammer-yalcin/" height="40" width="40" />Linkedin</a>
   
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/muammeryalcin386" target="blank">
+  <a href="https://www.hackerrank.com/muammeryalcin386" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"   alt="https://www.hackerrank.com/muammeryalcin386" height="40" width="40" />Hackerrank</a> 
   
-  <a href="https://www.codewars.com/https://www.codewars.com/users/Muammer%20Yalcin" target="blank">
+  <a href="https://www.codewars.com/users/Muammer%20Yalcin" target="blank">
   <img align="center" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" alt="https://www.codewars.com/users/Muammer%20Yalcin" height="40" width="40" />Codewars</a>
 </p>
 
