@@ -10,9 +10,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
-<h1 align="center">Hi 👋, I'm Muammer </h1>
+<h1 align="center">Hi 👋, I'm Muammer. </h1>
 <h3 align="center">I would love to have an opportunity at making valuable contributions towards achieving project and organizational goals.</h3>
 
 <p align="left"> 
