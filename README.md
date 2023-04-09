@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
  🎓 I graduated from Yıldız Technical University. <br>
- 🌱 I’m currently learning <b>HTML, CSS, REACT, and .NET </b>.
+ 🌱 I’m currently learning <b>JAVA, and JAVA SPRING </b>.
 </p>
 
 <p align="center">
